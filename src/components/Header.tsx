@@ -74,7 +74,7 @@ const Header = () => {
 													className='sr-only'
 													id='accessibility-header-cart-count'
 												>
-													empty{' '}
+													empty
 												</span>
 											</button>
 										</li>

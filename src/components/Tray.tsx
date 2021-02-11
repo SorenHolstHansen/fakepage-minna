@@ -91,7 +91,7 @@ const Tray = ({ visible, dismiss }: Props) => {
 									tabIndex={0}
 								>
 									<Link href='/bags'>
-										<a onClick={dismiss}>Bags</a>
+										<a onClick={dismiss}>Græs</a>
 									</Link>
 								</li>
 								<li
@@ -102,6 +102,26 @@ const Tray = ({ visible, dismiss }: Props) => {
 								>
 									<Link href='/about'>
 										<a onClick={dismiss}>About Us</a>
+									</Link>
+								</li>
+								<li
+									role='treeitem'
+									aria-expanded='false'
+									className='nav-item has-sub-item'
+									tabIndex={0}
+								>
+									<Link href='/go-global'>
+										<a onClick={dismiss}>Go global</a>
+									</Link>
+								</li>
+								<li
+									role='treeitem'
+									aria-expanded='false'
+									className='nav-item has-sub-item'
+									tabIndex={0}
+								>
+									<Link href='/report'>
+										<a onClick={dismiss}>Reports</a>
 									</Link>
 								</li>
 							</ul>

@@ -18,12 +18,10 @@
 	zoom: 1;
 }
 html.js input.form-autocomplete {
-	background-image: url(/misc/throbber-inactive.png);
 	background-position: 100% center;
 	background-repeat: no-repeat;
 }
 html.js input.throbbing {
-	background-image: url(/misc/throbber-active.gif);
 	background-position: 100% center;
 }
 html.js fieldset.collapsed {
@@ -50,7 +48,6 @@ fieldset.collapsible .fieldset-legend {
 	box-sizing: border-box;
 }
 .resizable-textarea .grippie {
-	background: #eee url(/misc/grippie.png) no-repeat center 2px;
 	border: 1px solid #ddd;
 	border-top-width: 0;
 	cursor: s-resize;
@@ -72,7 +69,6 @@ a.tabledrag-handle:hover {
 	text-decoration: none;
 }
 a.tabledrag-handle .handle {
-	background: url(/misc/draggable.png) no-repeat 6px 9px;
 	height: 13px;
 	margin: -0.4em 0.5em;
 	padding: 0.42em 0.5em;
@@ -87,15 +83,6 @@ div.indentation {
 	margin: -0.4em 0.2em -0.4em -0.4em;
 	padding: 0.42em 0 0.42em 0.6em;
 	width: 20px;
-}
-div.tree-child {
-	background: url(/misc/tree.png) no-repeat 11px center;
-}
-div.tree-child-last {
-	background: url(/misc/tree-bottom.png) no-repeat 11px center;
-}
-div.tree-child-horizontal {
-	background: url(/misc/tree.png) no-repeat -11px center;
 }
 .tabledrag-toggle-weight-wrapper {
 	text-align: right;
@@ -120,7 +107,6 @@ table.sticky-header {
 	display: inline-block;
 }
 .ajax-progress .throbber {
-	background: transparent url(/misc/throbber-active.gif) no-repeat 0px center;
 	float: left;
 	height: 15px;
 	margin: 2px;
@@ -186,7 +172,6 @@ div.messages {
 	padding: 10px 10px 10px 50px;
 }
 div.status {
-	background-image: url(/misc/message-24-ok.png);
 	border-color: #be7;
 }
 div.status,
@@ -198,7 +183,6 @@ table tr.ok {
 	background-color: #f8fff0;
 }
 div.warning {
-	background-image: url(/misc/message-24-warning.png);
 	border-color: #ed5;
 }
 div.warning,
@@ -210,7 +194,6 @@ table tr.warning {
 	background-color: #fffce5;
 }
 div.error {
-	background-image: url(/misc/message-24-error.png);
 	border-color: #ed541d;
 }
 div.error,
@@ -768,14 +751,10 @@ input.ctools-ajaxing,
 button.ctools-ajaxing,
 select.ctools-ajaxing {
 	padding-right: 18px !important;
-	background: url(/sites/all/modules/contrib/ctools/images/status-active.gif)
-		right center no-repeat;
 }
 div.ctools-ajaxing {
 	float: left;
 	width: 18px;
-	background: url(/sites/all/modules/contrib/ctools/images/status-active.gif)
-		center center no-repeat;
 }
 div.panel-pane div.admin-links {
 	font-size: xx-small;
@@ -2336,84 +2315,30 @@ video::-webkit-media-text-track-display {
 }
 @font-face {
 	font-family: Garamond Classico W00;
-	src: url(/sites/all/themes/custom/hermes/fonts/34a52b8d-2905-47d9-9a12-101583331fe2.eot?#iefix);
-	src: url(/sites/all/themes/custom/hermes/fonts/34a52b8d-2905-47d9-9a12-101583331fe2.eot?#iefix)
-			format('eot'),
-		url(/sites/all/themes/custom/hermes/fonts/808d2319-446c-4532-b7de-145fa931f717.woff2)
-			format('woff2'),
-		url(/sites/all/themes/custom/hermes/fonts/6c97b3c8-f94b-4a52-8480-5a6c0bdae39c.woff)
-			format('woff'),
-		url(/sites/all/themes/custom/hermes/fonts/7688124d-fd99-4be1-a2ae-cd01f5369ba7.ttf)
-			format('truetype'),
-		url(/sites/all/themes/custom/hermes/fonts/a489e643-efc3-496f-960f-804d9e214798.svg#a489e643-efc3-496f-960f-804d9e214798)
-			format('svg');
 	font-display: swap;
 	font-weight: 400;
 	font-style: normal;
 }
 @font-face {
 	font-family: Helvetica W01;
-	src: url(/sites/all/themes/custom/hermes/fonts/05598d95-f297-4c7f-a825-ab617e7e045f.eot?#iefix);
-	src: url(/sites/all/themes/custom/hermes/fonts/05598d95-f297-4c7f-a825-ab617e7e045f.eot?#iefix)
-			format('eot'),
-		url(/sites/all/themes/custom/hermes/fonts/89294146-207c-4803-91fe-338f0d0094bd.woff2)
-			format('woff2'),
-		url(/sites/all/themes/custom/hermes/fonts/57055fe4-c2d3-4287-bac2-eece43fdcbd3.woff)
-			format('woff'),
-		url(/sites/all/themes/custom/hermes/fonts/2922d55c-8df4-4066-b7b0-eec2d1524330.ttf)
-			format('truetype'),
-		url(/sites/all/themes/custom/hermes/fonts/f8343ddf-e94d-471e-95b0-3b435acc2499.svg#f8343ddf-e94d-471e-95b0-3b435acc2499)
-			format('svg');
 	font-display: swap;
 	font-weight: 400;
 	font-style: normal;
 }
 @font-face {
 	font-family: Orator W01;
-	src: url(/sites/all/themes/custom/hermes/fonts/5ca55cb9-9aef-420d-b1b2-790efab36a22.eot?#iefix);
-	src: url(/sites/all/themes/custom/hermes/fonts/5ca55cb9-9aef-420d-b1b2-790efab36a22.eot?#iefix)
-			format('eot'),
-		url(/sites/all/themes/custom/hermes/fonts/d93452fb-6f2b-4f8c-bb51-7a7dbfbc1566.woff2)
-			format('woff2'),
-		url(/sites/all/themes/custom/hermes/fonts/7e02dbde-0d3f-4d6b-8640-a8129cd42aff.woff)
-			format('woff'),
-		url(/sites/all/themes/custom/hermes/fonts/1e12736f-1397-4c85-ace8-b44b906df865.ttf)
-			format('truetype'),
-		url(/sites/all/themes/custom/hermes/fonts/25f4ca8e-12e8-4392-a06a-d4e209ca07c6.svg#25f4ca8e-12e8-4392-a06a-d4e209ca07c6)
-			format('svg');
 	font-display: swap;
 	font-weight: 400;
 	font-style: normal;
 }
 @font-face {
 	font-family: Akkurat;
-	src: url(/sites/all/themes/custom/hermes/fonts/perso/akkurat.eot?#iefix);
-	src: url(/sites/all/themes/custom/hermes/fonts/perso/akkurat.eot?#iefix)
-			format('eot'),
-		url(/sites/all/themes/custom/hermes/fonts/perso/akkurat.woff2)
-			format('woff2'),
-		url(/sites/all/themes/custom/hermes/fonts/perso/akkurat.woff) format('woff'),
-		url(/sites/all/themes/custom/hermes/fonts/perso/akkurat.ttf)
-			format('truetype'),
-		url(/sites/all/themes/custom/hermes/fonts/perso/akkurat.svg#akkurat)
-			format('svg');
 	font-display: swap;
 	font-weight: 200;
 	font-style: normal;
 }
 @font-face {
 	font-family: Filosofia;
-	src: url(/sites/all/themes/custom/hermes/fonts/perso/filosofia.eot?#iefix);
-	src: url(/sites/all/themes/custom/hermes/fonts/perso/filosofia.eot?#iefix)
-			format('eot'),
-		url(/sites/all/themes/custom/hermes/fonts/perso/filosofia.woff2)
-			format('woff2'),
-		url(/sites/all/themes/custom/hermes/fonts/perso/filosofia.woff)
-			format('woff'),
-		url(/sites/all/themes/custom/hermes/fonts/perso/filosofia.ttf)
-			format('truetype'),
-		url(/sites/all/themes/custom/hermes/fonts/perso/filosofia.svg#filosofia)
-			format('svg');
 	font-display: swap;
 	font-weight: 200;
 	font-style: normal;
@@ -7348,12 +7273,6 @@ div.form-item.form-type-radio input + label:before {
 	-ms-flex-align: center;
 	align-items: center;
 }
-.has-sub-item[aria-expanded='false']:after {
-	content: url(/sites/all/themes/custom/hermes/img/chevron_off.svg);
-}
-.has-sub-item[aria-expanded='true']:after {
-	content: url(/sites/all/themes/custom/hermes/img/chevron_on.svg);
-}
 .nav-list-menu a {
 	background-repeat: repeat-x;
 	background-position: 0 100%;
@@ -7388,12 +7307,6 @@ div.form-item.form-type-radio input + label:before {
 	display: inline-block;
 	width: 0.92308rem;
 	height: 1.23077rem;
-}
-.nav-list-menu .nav-item.has-sub-item[aria-expanded='true']:after {
-	content: url(/sites/all/themes/custom/hermes/img/chevron_on_bold.svg);
-}
-.nav-list-menu .nav-item.has-sub-nav.has-sub-item[aria-expanded='true']:after {
-	content: url(/sites/all/themes/custom/hermes/img/chevron_on.svg);
 }
 .nav-list-menu .nav-item .sub-nav {
 	max-height: 0;
@@ -7458,9 +7371,6 @@ div.form-item.form-type-radio input + label:before {
 }
 .nav-list-menu ul li.has-sub-item[aria-expanded='true'] span {
 	font-weight: 700;
-}
-.nav-list-menu ul li.has-sub-item[aria-expanded='true']:after {
-	content: url(/sites/all/themes/custom/hermes/img/chevron_on_bold.svg);
 }
 .nav-list-menu ul > li > ul li.nav-item {
 	font-size: 1rem;
@@ -9414,8 +9324,6 @@ ul.elements-without-media-3 li.product-grid-list-item:last-child {
 }
 .loggedout-checkout .checkout-with-paypal-cta {
 	border: 1px solid #e5e5e5;
-	background: url(/sites/all/themes/custom/hermes/img/payment/paypal-button2%402x.png)
-		50% no-repeat #fff;
 	background-size: 128px auto;
 }
 .captcha-popup {
@@ -10602,7 +10510,6 @@ li.checkout-web2shop-tray .web2shop-shipping-duration .container-phone {
 	left: 0;
 	right: 0;
 	margin-bottom: 42px;
-	background-image: url(/sites/all/themes/custom/hermes/img/hermeswatermark.png);
 }
 .hermes-gift-letter-wrapper #giftMessageWrapper {
 	height: 17.69231rem;
@@ -16865,11 +16772,6 @@ input[type='range']::-moz-range-track {
 	}
 }
 .product-images .product-image-list img {
-	cursor: url(/sites/all/themes/custom/hermes/img/cursor-plus.cur), move;
-	cursor: url(/sites/all/themes/custom/hermes/img/cursor-plus.png) 16 16,
-		zoom-in;
-	cursor: url(/sites/all/themes/custom/hermes/img/cursor-plus.svg) 16 16,
-		zoom-in;
 	display: block;
 	height: auto;
 	max-height: 55vh;
@@ -17006,13 +16908,6 @@ input[type='range']::-moz-range-track {
 		transform-origin: 0 0;
 	}
 }
-.tray-open .body-zoomed .zoom-wrapper .zoom-target {
-	cursor: url(/sites/all/themes/custom/hermes/img/cursor-minus.cur), move;
-	cursor: url(/sites/all/themes/custom/hermes/img/cursor-minus.png) 16 16,
-		zoom-out;
-	cursor: url(/sites/all/themes/custom/hermes/img/cursor-minus.svg) 16 16,
-		zoom-out;
-}
 .tray-open .body-zoomed .zoom-wrapper .zoom-target .zoom-set-soap {
 	width: 120%;
 	margin: 10%;
@@ -17028,13 +16923,6 @@ input[type='range']::-moz-range-track {
 		width: 60%;
 		margin: 25px 20% 3%;
 	}
-}
-html:not(.tray-open) .body-zoomed .zoom-wrapper .zoom-target {
-	cursor: url(/sites/all/themes/custom/hermes/img/cursor-minus.cur), move;
-	cursor: url(/sites/all/themes/custom/hermes/img/cursor-minus.png) 16 16,
-		zoom-out;
-	cursor: url(/sites/all/themes/custom/hermes/img/cursor-minus.svg) 16 16,
-		zoom-out;
 }
 .zoom-wrapper .zoom-image {
 	display: block;
@@ -18909,7 +18797,6 @@ store-locator-display-list .shop-title {
 	font-size: 0.76923rem;
 }
 .slashed-size {
-	background: url(/sites/all/themes/custom/hermes/img/slashed.svg) no-repeat;
 	background-size: cover;
 }
 .slashed-size span {
@@ -19445,16 +19332,10 @@ button.button-full-opacity {
 	height: 100%;
 	background: transparent;
 	position: relative;
-	background-image: url(/sites/all/themes/custom/hermes/img/maintenance-background-mobile.jpg);
 	background-size: cover;
 	background-size: 90% 90%;
 	background-repeat: no-repeat;
 	background-position: 50%;
-}
-@media (min-width: 1024px) {
-	.wrapper-frexit {
-		background-image: url(/sites/all/themes/custom/hermes/img/maintenance-background.jpg);
-	}
 }
 .frexit-inner-wrapper {
 	padding: 1.53846rem;
