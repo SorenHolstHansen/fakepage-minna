@@ -76,6 +76,20 @@ const Report = () => {
 							<td>24000</td>
 						</tr>
 					</table>
+
+					<h1>Machines</h1>
+					<p>
+						Now, the machines that harvest the grass is paid for. But when we
+						bought it for a bit over a year ago, it cost us 1'000'000kr. with 1%
+						rent per month
+					</p>
+					<h1>Working conditions</h1>
+					<p>
+						Our gardeners work 37.5 hours per week, and they get paid X kr. per
+						month. There are 3 employees to work the machine, where they work
+						3x8 hour shifts in the 72 hours the machine is running. For the 3
+						shifts, they get X kr.
+					</p>
 				</section>
 			</div>
 		</main>

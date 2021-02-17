@@ -13,13 +13,10 @@ const About = () => {
 						Before we can sell our grass there are some things that needs to be
 						done. From it is planted in the soil it takes 4 weeks before the
 						grass is ready to be made in to rolls, and send to our stores in
-						Denmark and Germany.
-					</p>
-					<p>
-						During these 4 weeks, every square meter needs to be cared for with
-						fertilizer one time by our gardeners. After the 4 weeks, our machine
-						has 72 hours to harvest the grass, after which it is ready to be
-						delivered, and the process starts all over again.
+						Denmark and Germany. During these 4 weeks, every square meter needs
+						to be cared for with fertilizer one time by our gardeners. After the
+						4 weeks, our machine has 72 hours to harvest the grass, after which
+						it is ready to be delivered, and the process starts all over again.
 					</p>
 					<p>
 						Our grass grows on a 50'000 m<sup>2</sup> large field in Spain,
@@ -45,17 +42,12 @@ const About = () => {
 					<h2>Best quality grass</h2>
 					<p>
 						To ensure the best potential for growth we use a mixture of two
-						types of fertilizer. Cow and sheep fertilizer.
-					</p>
-					<p>
-						We need at least 200 litres of each type of fertilizer for our
-						grassfield. We buy 2 different fertilizer mixtures. The first
-						contains 30l Cowfertilizer and 40l Sheepfertilizer. The other
-						mixture contains 40l cowfertilizer and 20l sheepfertilizer.
-					</p>
-					<p>
-						The first mixture of fertilizer costs 100kr. per bag, and the other
-						costs 150kr. per bag.
+						types of fertilizer. Cow and sheep fertilizer. We need at least 200
+						litres of each type of fertilizer for our grassfield. We buy 2
+						different fertilizer mixtures. The first contains 30l Cowfertilizer
+						and 40l Sheepfertilizer. The other mixture contains 40l
+						cowfertilizer and 20l sheepfertilizer. The first mixture of
+						fertilizer costs 100kr. per bag, and the other costs 150kr. per bag.
 					</p>
 				</section>
 			</div>
