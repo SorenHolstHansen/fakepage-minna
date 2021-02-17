@@ -10,44 +10,23 @@ const Logo = ({ size, media }: { size: number; media?: string }) => {
 		>
 			<rect width='256' height='256' fill='none'></rect>
 			<line
-				x1='128'
-				y1='232'
-				x2='128'
-				y2='72'
+				x1='160'
+				y1='96'
+				x2='24'
+				y2='232'
 				fill='none'
 				stroke='#000000'
-				stroke-linecap='round'
-				stroke-linejoin='round'
-				stroke-width='16'
-			></line>
-			<circle
-				cx='128'
-				cy='52'
-				r='20'
-				fill='none'
-				stroke='#000000'
-				stroke-linecap='round'
-				stroke-linejoin='round'
-				stroke-width='16'
-			></circle>
-			<line
-				x1='88'
-				y1='112'
-				x2='168'
-				y2='112'
-				fill='none'
-				stroke='#000000'
-				stroke-linecap='round'
-				stroke-linejoin='round'
-				stroke-width='16'
+				strokeLinecap='round'
+				strokeLinejoin='round'
+				strokeWidth='16'
 			></line>
 			<path
-				d='M40,144a48,48,0,0,0,48,48,40,40,0,0,1,40,40,40,40,0,0,1,40-40,48,48,0,0,0,48-48'
+				d='M46.783,209.217A128.08756,128.08756,0,0,1,209.217,46.783,128.08756,128.08756,0,0,1,46.783,209.217Z'
 				fill='none'
 				stroke='#000000'
-				stroke-linecap='round'
-				stroke-linejoin='round'
-				stroke-width='16'
+				strokeLinecap='round'
+				strokeLinejoin='round'
+				strokeWidth='16'
 			></path>
 		</svg>
 	);

@@ -20068,3 +20068,19 @@ section:not(.tray-content) .dob-wrapper .dob-day-year {
 	z-index: 2000;
 	background-color: rgba(0, 0, 0, 0.5);
 }
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td,
+th {
+	border: 1px solid #dddddd;
+	text-align: center;
+	padding: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #dddddd;
+}

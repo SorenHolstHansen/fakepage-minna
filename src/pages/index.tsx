@@ -48,7 +48,10 @@ export default function Home() {
 								>
 									<div className='entity entity-hermes-media hermes-media-hermes-media clearfix'>
 										<figure>
-											<picture className='media-wrap media-wrap-mobile media-wrap-square'>
+											<picture
+												className='media-wrap media-wrap-mobile'
+												style={{ height: '337px' }}
+											>
 												<img
 													className=' lazyloaded'
 													alt=''
@@ -66,7 +69,10 @@ export default function Home() {
 								>
 									<div className='entity entity-hermes-media hermes-media-hermes-media clearfix'>
 										<figure>
-											<picture className='media-wrap media-wrap-mobile media-wrap-square'>
+											<picture
+												className='media-wrap media-wrap-mobile'
+												style={{ height: '257px' }}
+											>
 												<img
 													className=' lazyloaded'
 													alt=''
@@ -88,7 +94,10 @@ export default function Home() {
 								>
 									<div className='entity entity-hermes-media hermes-media-hermes-media clearfix'>
 										<figure>
-											<picture className='media-wrap media-wrap-mobile media-wrap-square'>
+											<picture
+												className='media-wrap media-wrap-mobile'
+												style={{ height: '335px' }}
+											>
 												<img
 													className=' lazyloaded'
 													alt=''

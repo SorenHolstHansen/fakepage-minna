@@ -8,14 +8,14 @@ const Bags = () => {
 		<main>
 			<div id='content' className='content clearfix'>
 				<section className='block-edito block-edito-vertical block-edito-horizontal-standard block-edito-text'>
-					<h2 className='editorial-block-title'>Bags</h2>
+					<h2 className='editorial-block-title'>Vores Rullegræs</h2>
 				</section>
 				<section
 					className='block-edito block-edito-vertical block-edito-horizontal-standard block-edito-text'
 					style={{ display: 'flex', justifyContent: 'space-around' }}
 				>
 					<div>
-						<h1>The pretty One</h1>
+						<h1>Basic Rullegræs</h1>
 						<img
 							src='basic_rul.jpg'
 							alt='Bag'
@@ -23,10 +23,13 @@ const Bags = () => {
 							height={height}
 							style={{ cursor: 'pointer' }}
 						/>
+						<h2>
+							25 kr. / m<sup>2</sup>
+						</h2>
 					</div>
 
 					<div>
-						<h1>The functional One</h1>
+						<h1>Luksus Rullegræs</h1>
 						<img
 							src='luksus_rul.jpg'
 							alt='Bag'
@@ -34,6 +37,9 @@ const Bags = () => {
 							height={height}
 							style={{ cursor: 'pointer' }}
 						/>
+						<h2>
+							40 kr. / m<sup>2</sup>
+						</h2>
 					</div>
 				</section>
 			</div>

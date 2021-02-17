@@ -90,7 +90,7 @@ const Tray = ({ visible, dismiss }: Props) => {
 									className='nav-item has-sub-item'
 									tabIndex={0}
 								>
-									<Link href='/bags'>
+									<Link href='/graes'>
 										<a onClick={dismiss}>Græs</a>
 									</Link>
 								</li>
@@ -120,7 +120,7 @@ const Tray = ({ visible, dismiss }: Props) => {
 									className='nav-item has-sub-item'
 									tabIndex={0}
 								>
-									<Link href='/report'>
+									<Link href='/reports'>
 										<a onClick={dismiss}>Reports</a>
 									</Link>
 								</li>
