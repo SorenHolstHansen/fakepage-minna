@@ -10,10 +10,23 @@ const About = () => {
 				<section className='block-edito block-edito-vertical block-edito-horizontal-standard block-edito-text'>
 					<h1>About Us</h1>
 					<p>
+						Before we can sell our grass there are some things that needs to be
+						done. From it is planted in the soil it takes 4 weeks before the
+						grass is ready to be made in to rolls, and send to our stores in
+						Denmark and Germany.
+					</p>
+					<p>
+						During these 4 weeks, every square meter needs to be cared for with
+						fertilizer one time by our gardeners. After the 4 weeks, our machine
+						has 72 hours to harvest the grass, after which it is ready to be
+						delivered, and the process starts all over again.
+					</p>
+					<p>
 						Our grass grows on a 50'000 m<sup>2</sup> large field in Spain,
 						where our 4 fulltime gardeners care for the grass. When the grass is
 						ready, our modern machines pick up the grass and makes it ready for
-						shipping right to your doorstep.
+						shipping right to our shops in Germany and Denmark, and if you wish,
+						right to your doorstep.
 					</p>
 					<p>
 						Our gardeners take great care of our grass. Our basic grass is easy
