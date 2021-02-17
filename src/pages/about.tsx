@@ -42,7 +42,7 @@ const About = () => {
 					<h2>Best quality grass</h2>
 					<p>
 						To ensure the best potential for growth we use a mixture of two
-						types of fertilizer. Cow and sheep fertilizer. We need at least 200
+						types of fertilizer. Cow and sheep fertilizer. We need at least 2000
 						litres of each type of fertilizer for our grassfield. We buy 2
 						different fertilizer mixtures. The first contains 30l Cowfertilizer
 						and 40l Sheepfertilizer. The other mixture contains 40l
