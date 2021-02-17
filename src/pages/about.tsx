@@ -10,39 +10,39 @@ const About = () => {
 				<section className='block-edito block-edito-vertical block-edito-horizontal-standard block-edito-text'>
 					<h1>About Us</h1>
 					<p>
-						Vores græs gror på en 50'000 m<sup>2</sup> stor mark i Spanien, hvor
-						der er 4 fuldtidsansatte gartnere der plejer græsset, samt en
-						nymoderne maskine der tager græsset op, klipper det i længder og
-						ruller det sammen klar til forsendelse.
+						Our grass grows on a 50'000 m<sup>2</sup> large field in Spain,
+						where our 4 fulltime gardeners care for the grass. When the grass is
+						ready, our modern machines pick up the grass and makes it ready for
+						shipping right to your doorstep.
 					</p>
 					<p>
-						Vores gartnere passer godt på græsset. Vores basic græs er nemt og
-						hurtigt at arbejde med, så de kan passe ca. 100m<sup>2</sup> græs i
-						timen, mens vores luksusgræs kræver lidt mere pleje, så de derfor
-						skal bruge 1 time på 50m<sup>2</sup>.
+						Our gardeners take great care of our grass. Our basic grass is easy
+						and quick to work with, so our gardeners can take care of about 100m
+						<sup>2</sup> grass pr. hour, while our luxury grass needs a lot more
+						care, so our gardeners therefore have to use 1 hour for 50m
+						<sup>2</sup>.
 					</p>
 					<p>
-						Efter vores gartnere har passet og plejet græsset, går maskinen i
-						gang. Den kan over tre dage rulle 1000m
-						<sup>2</sup> i timen af vores basic græs, eller 400m<sup>2</sup> i
-						timen af vores luksusgræs sammen. Derefter er græsset klart til at
-						blive købt og sendt.
+						After our gardeners has cared for and attended the grass, our
+						machines then fires up. It can roll up a staggering 1000m
+						<sup>2</sup> an hour of our basic grass or 400m<sup>2</sup> of our
+						luxury grass which we are a bit more careful with. After that our
+						grass is ready for shipping and delivery.
 					</p>
 					<h2>Best quality grass</h2>
 					<p>
-						For at sikre os at græsset har så gode muligheder for at vokse tæt
-						og grønt bruger vi en blanding af to typer gødning: Kogødning og
-						fåregødning.
+						To ensure the best potential for growth we use a mixture of two
+						types of fertilizer. Cow and sheep fertilizer.
 					</p>
 					<p>
-						Vi skal mindst have 200 liter af hver gødning på vores græsmark. Vi
-						køber 2 forskellige gødningeblandinger. Den første indeholder 30l
-						kogødning og 40l fåregødning. I den anden 40l kogødning og 20l
-						fåregødning.
+						We need at least 200 litres of each type of fertilizer for our
+						grassfield. We buy 2 different fertilizer mixtures. The first
+						contains 30l Cowfertilizer and 40l Sheepfertilizer. The other
+						mixture contains 40l cowfertilizer and 20l sheepfertilizer.
 					</p>
 					<p>
-						Den første gødning koster 100kr pr pose og den anden koster 150kr pr
-						pose.
+						The first mixture of fertilizer costs 100kr. per bag, and the other
+						costs 150kr. per bag.
 					</p>
 				</section>
 			</div>

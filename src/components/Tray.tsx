@@ -91,7 +91,7 @@ const Tray = ({ visible, dismiss }: Props) => {
 									tabIndex={0}
 								>
 									<Link href='/graes'>
-										<a onClick={dismiss}>Græs</a>
+										<a onClick={dismiss}>Buy Grass</a>
 									</Link>
 								</li>
 								<li
