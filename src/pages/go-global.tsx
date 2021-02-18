@@ -4,7 +4,6 @@ const GoGlobal = () => {
 			<div id='content' className='content clearfix'>
 				<section className='block-edito block-edito-vertical block-edito-horizontal-standard block-edito-text'>
 					<h1>Go Global</h1>
-					<h2>Go green</h2>
 					<p>
 						We have shops in both Denmark and Germany where we sell our grass.
 						In Germany we sell at least 18'000m<sup>2 </sup>
@@ -17,6 +16,7 @@ const GoGlobal = () => {
 						<sup>2 </sup>
 						of grass to Germany is 3kr. and 4kr. to Denmark.
 					</p>
+					<h2>Go green</h2>
 				</section>
 			</div>
 		</main>
