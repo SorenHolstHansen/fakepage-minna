@@ -79,7 +79,7 @@ const Report = () => {
 
 					<h1>Machines</h1>
 					<p>
-						Now, the machines that harvest the grass is paid for. But when we
+						Now, the machine that harvest the grass is paid for. But when we
 						bought it for a bit over a year ago, it cost us 1'000'000kr. with 1%
 						rent per month
 					</p>

@@ -7,16 +7,14 @@ const GoGlobal = () => {
 					<p>
 						We have shops in both Denmark and Germany where we sell our grass.
 						In Germany we sell at least 18'000m<sup>2 </sup>
-						grass per month, and at least 10'000m<sup>2 </sup>
-						grass per month in Denmark.
+						basic grass per month, and at least 5'000m<sup>2 </sup>
+						luxury grass per month.
 					</p>
 					<p>
-						In Denmark we sell twice as much luxury grass than basic grass, and
-						in Germany, we sell equal amounts of luxury and basic grass. The
-						price for transporting 1m
+						In Denmark we sell twice as much luxury grass as in Germany, but
+						they buy equal amounts of Basic grass. The price for transporting 1m
 						<sup>2 </sup>
-						of Basic grass is 3kr. and 7kr. for luxury from Spain to the shops
-						in Germany and Denmark.
+						of grass to Germany is 3kr. and 4kr. to Denmark.
 					</p>
 					<h2>Go green</h2>
 				</section>
