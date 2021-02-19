@@ -85,10 +85,20 @@ const Report = () => {
 					</p>
 					<h1>Working conditions</h1>
 					<p>
-						Our gardeners work 37.5 hours per week, and they get paid X kr. per
-						month. There are 3 employees to work the machine, where they work
-						3x8 hour shifts in the 72 hours the machine is running. For the 3
-						shifts, they get X kr.
+						Our gardeners work 37.5 hours per week. We have 4 gardeners
+						employed, two from Spain and two from Denmark. The two from Spain
+						are more used to the Spanish soil and climate, so they are a bit
+						more productive. They can tend to 110m<sup>2 </sup> basic grass per
+						hour and 60m<sup>2 </sup> luxury grass per hour. The Danish
+						gardeners however, and use one hour for 90m<sup>2 </sup> basic grass
+						and one hour for 40m<sup>2 </sup> luxury grass. Therefore, the
+						Spanish gardeners get 30'000kr per month, while the Danish gardeners
+						get 25'000 kr per month.
+					</p>
+					<p>
+						There are 3 employees to work the machine, where they work 3x8 hour
+						shifts in the 72 hours the machine is running. For the 3 shifts,
+						they get 5000 kr.
 					</p>
 				</section>
 			</div>
