@@ -15,7 +15,8 @@ const GoGlobal = () => {
 						in Germany, we sell equal amounts of luxury and basic grass. The
 						price for transporting 1m
 						<sup>2 </sup>
-						of Basic grass is 3kr. and 7kr. for luxury.
+						of Basic grass is 3kr. and 7kr. for luxury from Spain to the shops
+						in Germany and Denmark.
 					</p>
 					<h2>Go green</h2>
 				</section>
