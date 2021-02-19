@@ -28,17 +28,17 @@ const Report = () => {
 						<tr>
 							<td>March</td>
 							<td>34000</td>
-							<td>10000</td>
+							<td>13000</td>
 						</tr>
 						<tr>
 							<td>April</td>
 							<td>28000</td>
-							<td>13800</td>
+							<td>16000</td>
 						</tr>
 						<tr>
 							<td>May</td>
-							<td>21600</td>
-							<td>17800</td>
+							<td>21000</td>
+							<td>19500</td>
 						</tr>
 						<tr>
 							<td>June</td>
@@ -52,13 +52,13 @@ const Report = () => {
 						</tr>
 						<tr>
 							<td>August</td>
-							<td>22000</td>
-							<td>12000</td>
+							<td>44000</td>
+							<td>6000</td>
 						</tr>
 						<tr>
 							<td>September</td>
 							<td>18000</td>
-							<td>20000</td>
+							<td>21000</td>
 						</tr>
 						<tr>
 							<td>October</td>
@@ -67,8 +67,8 @@ const Report = () => {
 						</tr>
 						<tr>
 							<td>November</td>
-							<td>24000</td>
-							<td>18000</td>
+							<td>42000</td>
+							<td>8000</td>
 						</tr>
 						<tr>
 							<td>December</td>
