@@ -10,7 +10,7 @@ const About = () => {
 				<section className='block-edito block-edito-vertical block-edito-horizontal-standard block-edito-text'>
 					<h1>About Us</h1>
 					<p>
-						Before we can sell our grass there are some things that needs to be
+						Before we can sell our grass there are some things that need to be
 						done. From it is planted in the soil it takes 4 weeks before the
 						grass is ready to be made in to rolls, and send to our stores in
 						Denmark and Germany. During these 4 weeks, every square meter needs

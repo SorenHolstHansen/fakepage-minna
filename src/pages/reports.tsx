@@ -90,10 +90,10 @@ const Report = () => {
 						are more used to the Spanish soil and climate, so they are a bit
 						more productive. They can tend to 110m<sup>2 </sup> basic grass per
 						hour and 60m<sup>2 </sup> luxury grass per hour. The Danish
-						gardeners however, and use one hour for 90m<sup>2 </sup> basic grass
-						and one hour for 40m<sup>2 </sup> luxury grass. Therefore, the
-						Spanish gardeners get 30'000kr per month, while the Danish gardeners
-						get 25'000 kr per month.
+						gardeners however, use one hour for 90m<sup>2 </sup> basic grass and
+						one hour for 40m<sup>2 </sup> luxury grass. Therefore, the Spanish
+						gardeners get 30'000kr per month, while the Danish gardeners get
+						25'000 kr per month.
 					</p>
 					<p>
 						There are 3 employees to work the machine, where they work 3x8 hour
